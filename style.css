@@ -1,0 +1,443 @@
+/* nav */
+.font{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.name-font{
+    width: 128px;
+    height: 33px;
+    font-weight: 900;
+    margin-left: 150px;
+    margin-right: 1162px;
+}
+.space-btwn-maker{
+    display: flex;
+    margin-top: 35px;
+}
+.dwnld-btn{
+    font-weight: 600;
+    background-color: white;
+    color: #0D1321;
+    border: 1px solid #0D1321;
+    width: 244px;
+    height: 57px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    border-radius: 8px;
+    font-size: 19px;
+    margin-right: 150px;
+}
+/* cntct-btn-portion */
+.background{
+    background-image: url(./assets/Hero-bg.png);
+    width: 1895px;
+    height: 620px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.s-div{
+    width: 998px;
+    height: 581px;
+    padding-left: 420px;
+    padding-right: 420px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.caption{
+    font-size: 48px;
+    font-weight: 900;
+    width: 998px;
+    height: 136px;
+    text-align: center;
+    margin: 0;
+}
+.paragraph{
+    width: 852px;
+    height: 52px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+}
+.cntct-btn{
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    width: 244px;
+    height: 65px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    border-radius: 8px;
+    font-size: 19px;
+    margin-right: 150px;
+}
+.cntct-btn-center{
+    display: flex;
+    justify-content: center;
+    margin-left: 380px;
+    margin-right: 200px;
+}
+/* Why development */
+.background-div-1{
+    background-color: #fafafc;
+    width: 1100px;
+    height: 1420px;
+    margin-top: 71px;
+    margin-left: 400px;
+    margin-right: 182px;
+    margin-bottom: 95px;
+    border-radius: 16px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background-div-2{
+    background-color: #fafafc;
+    width: 946px;
+    height: 1299px;
+}
+.why-develop-div{
+    width: 852px;
+    height: 145px;
+}
+.cls{
+   width: 852px;
+   height: 37px;
+   padding-left: 100px;
+}
+.cls-font{
+   font-weight: 900;
+   font-size: 32;
+}
+.clss{
+    width: 852px;
+    height: 52px;
+    margin-top: 30px;
+    padding-left: 80px;
+}
+.parag-2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.banner-1{
+    width: 946px;
+    height: 336px;
+    border-radius: 16px;
+    background-color: white;
+    margin-top: 48px;
+}
+.mini-banner-1{
+    width: 840px;
+    height: 240px;
+    background-color: white;
+    margin-top: 48px;
+}
+.mini-banner-context{
+    width: 477px;
+    height: 219px;
+}
+.mb-div-1{
+    width: 320px;
+    height: 72px;
+    margin-bottom: 0;
+}
+.mb-div-1-font{
+    font-size: 24px;
+    font-weight: 700;
+    color: #474b52;
+}
+.mb-div-2{
+    width: 468px;
+    height: 52px;
+    margin-bottom: 20px;
+}
+.mb-div-2-font{
+    font-size: 16px;
+    font-weight: 400;
+    color: #575d68;
+}
+.mb-div-3{
+    width: 171px;
+    height: 47px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #575d68;
+    background-color: white;
+    border: 1px solid black;
+}
+.dsply-just-sb{
+    display: flex;
+    justify-content: space-between;
+}
+.mb-pic{
+    width: 274px;
+    height: 240px;
+    margin-right: 0;
+    margin-left: 98px;
+}
+/* inspire section */
+.inspire-div{
+    background-color: white;
+    width: 1100px;
+    height: 875px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 182px;
+    margin-bottom: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inspire-div-s1{
+    width: 852px;
+    height: 140px;
+    margin-left: 125px;
+    margin-top: -1px;
+}
+.inspire-div-s2{
+    width: 1100px;
+    height: 633px;
+    border-radius: 16px;
+    border: 1px solid #b9b5b5;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.yt-link-div{
+    width: 1000px;
+    height: 514px;
+    margin-top: 60px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+.yt-div{
+    width: 1000px;
+    height: 514px;
+}
+/* Current Target */
+.target-div{
+    background-color: white;
+    width: 1100px;
+    height: 510px;
+    margin-top: 91px;
+    margin-left: 400px;
+    margin-right: 182px;
+    margin-bottom: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.target-div-1{
+    width: 1100px;
+    height: 490px;
+    margin-top: -1px;
+
+}
+.current-div-s1{
+    width: 852px;
+    height: 140px;
+    margin-left: 120px;
+    margin-top: -1px;
+}
+.HCJS{
+    width: 1100px;
+    height: 299px;
+    margin-top: 48px;
+}
+.Html{
+    width: 355px;
+    height: 299px;
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.mini-Html{
+    width: 284px;
+    height: 239px;
+    margin-top: 30px;
+}
+.Css{
+    width: 355px;
+    height: 299px;
+    border-radius: 16px;
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.mini-Css{
+    width: 284px;
+    height: 239px;
+    margin-top: 30px;
+}
+.JS{
+    width: 355px;
+    height: 299px;
+    border-radius: 16px;
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.mini-JS{
+    width: 284px;
+    height: 239px;
+    margin-top: 30px;
+}
+/* Next Target */
+.target-div{
+    background-color: white;
+    width: 1100px;
+    height: 510px;
+    margin-top: 91px;
+    margin-left: 400px;
+    margin-right: 182px;
+    margin-bottom: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.target-div-1{
+    width: 1100px;
+    height: 490px;
+    margin-top: -1px;
+
+}
+.current-div-s1{
+    width: 852px;
+    height: 140px;
+    margin-left: 120px;
+    margin-top: -1px;
+}
+.RNM{
+    width: 1100px;
+    height: 756px;
+    margin-top: 48px;
+}
+.React{
+    width: 1100px;
+    height: 200px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #b9b5b5;
+}
+.mini-React{
+    width: 1000px;
+    height: 150px;
+    margin-top: 30px;
+}
+.Node{
+    width: 1100px;
+    height: 200px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #b9b5b5;
+}
+.mini-Node{
+    width: 1000px;
+    height: 150px;
+    margin-top: 25px;
+}
+.Mongo{
+    width: 1100px;
+    height: 200px;
+    border-radius: 16px;
+    border: 1px solid #b9b5b5;
+}
+.mini-Mongo{
+    width: 1000px;
+    height: 150px;
+    margin-top: 30px;
+}
+.c-pic{
+    width: 94px;
+    height: 108px;
+    margin-top: 30px;
+}
+.link-color{
+    color: black;
+}
+.NT-font{
+    font-size: 24px;
+    font-weight: 900;
+}
+.NT-link-font{
+    font-size: 16px;
+    font-weight: 700;
+}
+/* Support */
+.support{
+    width: 1100px;
+    height: 313px;
+    margin-top: 400px;
+    margin-left: 400px;
+    border-radius: 16px;
+    background: rgba(0,0,0,0.5) url(./assets/handshake.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.support-s{
+    width: 1000px;
+    height: 210px;
+    margin-top: 10px;
+    padding-top: 0;
+}
+.hand-font{
+    color: #FFFFFF;
+}
+.H-size{
+    font-size: 32px;
+    font-weight: 700;
+}
+.P-size{
+    font-size: 12px;
+    font-weight: 100;
+    width: 450px;
+    height: 50px;
+}
+.suggest-box{
+    width: 400px;
+    height: 57px;
+    border-radius: 8px;
+}
+.sub-btn{
+    width: 100px;
+    height: 59px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+/* last */
+.last{
+    width: 1890px;
+    height: 70px;
+    background-color: rgba(13, 19, 33, 0.04);
+    margin-top: 80px;
+    margin-left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.lst-1{
+    width: 1500px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.lst-m1{
+    font-size: 16px;
+    font-weight: 100;
+}
+.lst-m2{
+    margin-left: 850px;
+}
